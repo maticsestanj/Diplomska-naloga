@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+Athlete1/
+Athlete3/
+Athlete6/
+Athlete7/
+
+valid_trainings_*.txt
