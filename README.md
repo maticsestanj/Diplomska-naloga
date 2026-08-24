@@ -2,7 +2,7 @@ Diplomska naloga
 
 Repozitorij vsebuje programsko kodo, uporabljeno pri izdelavi diplomske naloge:
 
-**Razvoj algoritma za prepoznavanje vzponov in spustov na podlagi podatkov kolesarskih aktivnosti**
+Razvoj algoritma za prepoznavanje vzponov in spustov na podlagi kolesarskih podatkov
 
 Opis
 
