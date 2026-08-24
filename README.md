@@ -33,3 +33,7 @@ Program uporablja Python ter naslednje knjižnice:
 - pandas
 - numpy
 - matplotlib
+
+Podatki
+
+GPX datoteke niso vključene v repozitorij.
