@@ -23,7 +23,7 @@ Datoteke
 - `Main.py` – glavna obdelava podatkov, klasifikacija in grafični prikaz rezultatov
 - `gpx_loader.py` – branje podatkov iz GPX datotek
 - `riderx_filter.py` – preverjanje veljavnosti GPX aktivnosti
-- `generate_valid_trainings.py` – izdelava seznamov veljavnih aktivnosti
+- `generate_valid_trainings.txt.py` – izdelava seznamov veljavnih aktivnosti
 
 Zahteve
 
